@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fbaig750
 - 👀 I’m interested in learning about GitHub
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on Code Releasing
+- 💞️ I’m looking to collaborate on Coding and CI/CD
 - 📫 How to reach me farrukh.baig@gmail.com
 
 <!---
